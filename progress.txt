@@ -4,3 +4,4 @@ PrimeCheck.java
 FibonacciRecursion.java
 TwoSum.java
 ReverseString.java
+InsertionSort.java
