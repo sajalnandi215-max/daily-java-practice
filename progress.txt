@@ -9,3 +9,5 @@ BubbleSort.java
 LinearSearch.java
 BinarySearch.java
 Factorial.java
+Fibonacci.java
+PalindromeCheck.java
