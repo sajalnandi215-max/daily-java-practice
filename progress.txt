@@ -7,3 +7,5 @@ ReverseString.java
 InsertionSort.java
 BubbleSort.java
 LinearSearch.java
+BinarySearch.java
+Factorial.java
