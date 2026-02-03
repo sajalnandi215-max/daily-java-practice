@@ -11,3 +11,5 @@ BinarySearch.java
 Factorial.java
 Fibonacci.java
 PalindromeCheck.java
+GCD.java
+LCM.java
