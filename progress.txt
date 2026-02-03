@@ -13,3 +13,5 @@ Fibonacci.java
 PalindromeCheck.java
 GCD.java
 LCM.java
+ReverseArray.java
+MaxElement.java
