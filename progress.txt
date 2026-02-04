@@ -17,3 +17,5 @@ ReverseArray.java
 MaxElement.java
 MinElement.java
 SumArray.java
+CountVowels.java
+FactorialRecursion.java
