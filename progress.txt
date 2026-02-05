@@ -23,3 +23,5 @@ ReverseInteger.java
 ArmstrongCheck.java
 SumDigits.java
 ReverseStringRecursion.java
+CountCharacters.java
+MatrixSum.java
