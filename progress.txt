@@ -21,3 +21,5 @@ CountVowels.java
 FactorialRecursion.java
 ReverseInteger.java
 ArmstrongCheck.java
+SumDigits.java
+ReverseStringRecursion.java
