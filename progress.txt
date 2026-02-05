@@ -19,3 +19,5 @@ MinElement.java
 SumArray.java
 CountVowels.java
 FactorialRecursion.java
+ReverseInteger.java
+ArmstrongCheck.java
