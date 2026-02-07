@@ -1,2 +1,4 @@
 BubbleSort.java
 SelectionSort.java
+InsertionSort.java
+LinearSearch.java
