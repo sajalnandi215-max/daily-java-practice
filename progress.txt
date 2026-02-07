@@ -2,3 +2,5 @@ BubbleSort.java
 SelectionSort.java
 InsertionSort.java
 LinearSearch.java
+MergeSort.java
+QuickSort.java
