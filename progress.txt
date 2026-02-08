@@ -4,3 +4,5 @@ InsertionSort.java
 LinearSearch.java
 MergeSort.java
 QuickSort.java
+HeapSort.java
+CountingSort.java
