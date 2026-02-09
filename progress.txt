@@ -12,3 +12,5 @@ ShellSort.java
 BinarySearch.java
 JumpSearch.java
 InterpolationSearch.java
+ExponentialSearch.java
+FindMax.java
