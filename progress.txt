@@ -10,3 +10,5 @@ RadixSort.java
 BucketSort.java
 ShellSort.java
 BinarySearch.java
+JumpSearch.java
+InterpolationSearch.java
