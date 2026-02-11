@@ -26,3 +26,5 @@ MergeSortedArrays.java
 ReverseString.java
 PalindromeString.java
 AnagramCheck.java
+CountVowels.java
+RemoveDuplicatesString.java
