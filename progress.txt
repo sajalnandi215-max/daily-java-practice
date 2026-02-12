@@ -32,3 +32,5 @@ FirstNonRepeatingChar.java
 LongestWord.java
 CountWords.java
 ToggleCase.java
+RemoveSpaces.java
+SubstringCheck.java
