@@ -58,3 +58,5 @@ MergeTwoLinkedLists.java
 NthFromEnd.java
 BinaryTreeInorder.java
 BinaryTreePreorder.java
+BinaryTreePostorder.java
+TreeHeight.java
