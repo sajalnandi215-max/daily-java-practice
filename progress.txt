@@ -64,3 +64,5 @@ CountTreeNodes.java
 LevelOrderTraversal.java
 MirrorTree.java
 BSTInsert.java
+BSTSearch.java
+BSTMin.java
