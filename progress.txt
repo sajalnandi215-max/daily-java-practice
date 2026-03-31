@@ -24,3 +24,5 @@ MaxProductSubarray.java
 MoveZeroes.java
 MergeSortedArrays.java
 ReverseString.java
+PalindromeString.java
+AnagramCheck.java
