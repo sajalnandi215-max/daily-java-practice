@@ -86,3 +86,7 @@ MinCoinsGreedy.java
 JobSequencing.java
 NQueens.java
 CheckPowerOfTwo.java
+CountSetBits.java
+SwapBits.java
+LinearQueue.java
+CircularQueue.java
