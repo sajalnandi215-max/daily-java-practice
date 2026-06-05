@@ -8,3 +8,5 @@ CountingSort.java
 RadixSort.java
 BucketSort.java
 ShellSort.java
+LinearSearch.java
+BinarySearch.java
