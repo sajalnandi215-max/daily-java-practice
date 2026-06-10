@@ -30,3 +30,5 @@ CountVowels.java
 RemoveDuplicatesString.java
 FirstNonRepeatingChar.java
 LongestWord.java
+CountWords.java
+ToggleCase.java
