@@ -6,3 +6,5 @@ QuickSort.java
 HeapSort.java
 CountingSort.java
 RadixSort.java
+BucketSort.java
+ShellSort.java
