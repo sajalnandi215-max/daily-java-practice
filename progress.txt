@@ -18,3 +18,5 @@ FindMin.java
 ReverseArray.java
 RotateArray.java
 TwoSum.java
+SubarraySum.java
+KadaneAlgorithm.java
