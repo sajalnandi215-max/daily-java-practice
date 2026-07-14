@@ -1,0 +1,1 @@
+public class ShellSort { public static void main(String[] args){ int[] arr={12,34,54,2,3}; for(int gap=arr.length/2;gap>0;gap/=2){ for(int i=gap;i<arr.length;i++){ int temp=arr[i]; int j; for(j=i;j>=gap && arr[j-gap]>temp;j-=gap) arr[j]=arr[j-gap]; arr[j]=temp; } } System.out.println(java.util.Arrays.toString(arr)); }}
