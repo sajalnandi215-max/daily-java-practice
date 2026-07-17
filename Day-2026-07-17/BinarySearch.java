@@ -1,0 +1,1 @@
+public class BinarySearch { public static void main(String[] args){ int[] arr={1,2,3,4,5}; int key=3; int l=0,r=arr.length-1; while(l<=r){ int m=l+(r-l)/2; if(arr[m]==key){ System.out.println("Found at index "+m); break; } else if(arr[m]<key) l=m+1; else r=m-1; } }}
