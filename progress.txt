@@ -22,3 +22,13 @@ SubarraySum.java
 KadaneAlgorithm.java
 MaxProductSubarray.java
 MoveZeroes.java
+MergeSortedArrays.java
+ReverseString.java
+PalindromeString.java
+AnagramCheck.java
+CountVowels.java
+RemoveDuplicatesString.java
+FirstNonRepeatingChar.java
+LongestWord.java
+CountWords.java
+ToggleCase.java
