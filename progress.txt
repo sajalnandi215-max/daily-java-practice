@@ -58,3 +58,15 @@ NthFromEnd.java
 MergeTwoLinkedLists.java
 BinaryTreePreorder.java
 BinaryTreePostorder.java
+BinaryTreeInorder.java
+TreeHeight.java
+CountTreeNodes.java
+LevelOrderTraversal.java
+MirrorTree.java
+BSTInsert.java
+BSTSearch.java
+BSTMin.java
+BSTMax.java
+BSTInorder.java
+HashMapBasic.java
+FrequencyArrayHash.java
