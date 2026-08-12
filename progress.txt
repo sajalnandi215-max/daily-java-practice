@@ -89,3 +89,5 @@ CheckPowerOfTwo.java
 CountSetBits.java
 SwapBits.java
 LinearQueue.java
+CircularQueue.java
+StackArray.java
