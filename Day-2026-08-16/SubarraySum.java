@@ -1,0 +1,1 @@
+public class SubarraySum { public static void main(String[] args){ int[] arr={1,2,3,4,5}; int sum=9; for(int i=0;i<arr.length;i++){ int s=0; for(int j=i;j<arr.length;j++){ s+=arr[j]; if(s==sum) System.out.println("Subarray: "+i+"-"+j); } } }}
