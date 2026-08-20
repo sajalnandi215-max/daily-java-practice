@@ -35,3 +35,4 @@ ToggleCase.java
 RemoveSpaces.java
 SubstringCheck.java
 StringRotation.java
+RemoveSpecialChars.java
