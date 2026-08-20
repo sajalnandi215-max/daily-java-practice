@@ -36,3 +36,13 @@ RemoveSpaces.java
 SubstringCheck.java
 StringRotation.java
 RemoveSpecialChars.java
+ReverseWords.java
+FactorialRecursion.java
+FibonacciRecursion.java
+SumDigits.java
+ReverseNumber.java
+PowerRecursion.java
+PalindromeNumber.java
+CountDigits.java
+GCDRecursion.java
+BinarySearchRecursion.java
