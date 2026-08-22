@@ -49,3 +49,5 @@ BinarySearchRecursion.java
 PrintNumbers.java
 DeleteNodeLinkedList.java
 LengthLinkedList.java
+FrequencyChar.java
+ReverseLinkedList.java
