@@ -53,3 +53,5 @@ FrequencyChar.java
 ReverseLinkedList.java
 MiddleLinkedList.java
 DetectLoopLinkedList.java
+RemoveLoopLinkedList.java
+MergeTwoLinkedLists.java
