@@ -73,3 +73,5 @@ FrequencyArrayHash.java
 FirstRepeatingElement.java
 GraphAdjacencyList.java
 GraphBFS.java
+GraphDFS.java
+DetectCycleUndirected.java
