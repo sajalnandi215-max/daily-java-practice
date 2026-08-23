@@ -69,3 +69,5 @@ BSTMin.java
 BSTMax.java
 BSTInorder.java
 HashMapBasic.java
+FrequencyArrayHash.java
+FirstRepeatingElement.java
