@@ -57,3 +57,13 @@ RemoveLoopLinkedList.java
 MergeTwoLinkedLists.java
 NthFromEnd.java
 BinaryTreeInorder.java
+BinaryTreePreorder.java
+BinaryTreePostorder.java
+TreeHeight.java
+CountTreeNodes.java
+LevelOrderTraversal.java
+MirrorTree.java
+BSTInsert.java
+BSTSearch.java
+BSTMin.java
+BSTMax.java
