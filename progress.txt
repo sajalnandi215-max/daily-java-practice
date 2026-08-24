@@ -83,3 +83,5 @@ Knapsack01.java
 LongestCommonSubsequence.java
 ActivitySelection.java
 MinCoinsGreedy.java
+JobSequencing.java
+NQueens.java
