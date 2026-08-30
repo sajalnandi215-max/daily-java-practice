@@ -34,3 +34,5 @@ CountWords.java
 ToggleCase.java
 RemoveSpaces.java
 SubstringCheck.java
+StringRotation.java
+FrequencyChar.java
