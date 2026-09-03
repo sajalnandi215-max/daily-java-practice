@@ -55,3 +55,4 @@ MiddleLinkedList.java
 DetectLoopLinkedList.java
 RemoveLoopLinkedList.java
 NthFromEnd.java
+BinaryTreeInorder.java
