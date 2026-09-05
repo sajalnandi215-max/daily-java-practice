@@ -56,3 +56,5 @@ DetectLoopLinkedList.java
 RemoveLoopLinkedList.java
 NthFromEnd.java
 BinaryTreeInorder.java
+MergeTwoLinkedLists.java
+BinaryTreePreorder.java
