@@ -6,3 +6,13 @@ QuickSort.java
 HeapSort.java
 CountingSort.java
 RadixSort.java
+BucketSort.java
+ShellSort.java
+LinearSearch.java
+BinarySearch.java
+JumpSearch.java
+InterpolationSearch.java
+ExponentialSearch.java
+FindMax.java
+FindMin.java
+ReverseArray.java
