@@ -28,3 +28,5 @@ PalindromeString.java
 AnagramCheck.java
 CountVowels.java
 RemoveDuplicatesString.java
+FirstNonRepeatingChar.java
+LongestWord.java
