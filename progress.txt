@@ -50,3 +50,5 @@ BinarySearchRecursion.java
 PrintNumbers.java
 DeleteNodeLinkedList.java
 LengthLinkedList.java
+ReverseLinkedList.java
+MiddleLinkedList.java
