@@ -70,3 +70,7 @@ BSTMax.java
 BSTInorder.java
 HashMapBasic.java
 FrequencyArrayHash.java
+FirstRepeatingElement.java
+GraphAdjacencyList.java
+GraphBFS.java
+GraphDFS.java
