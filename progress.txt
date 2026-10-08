@@ -66,3 +66,5 @@ MirrorTree.java
 BSTInsert.java
 BSTSearch.java
 BSTMin.java
+BSTMax.java
+BSTInorder.java
