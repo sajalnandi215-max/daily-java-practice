@@ -84,3 +84,5 @@ LongestCommonSubsequence.java
 ActivitySelection.java
 MinCoinsGreedy.java
 JobSequencing.java
+NQueens.java
+CheckPowerOfTwo.java
