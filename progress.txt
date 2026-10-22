@@ -96,3 +96,5 @@ ReverseStringStack.java
 BalancedParentheses.java
 InfixToPostfix.java
 EvaluatePostfix.java
+SinglyLinkedList.java
+LinkedListSearch.java
