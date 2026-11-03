@@ -28,3 +28,11 @@ PalindromeString.java
 AnagramCheck.java
 CountVowels.java
 RemoveDuplicatesString.java
+FirstNonRepeatingChar.java
+LongestWord.java
+CountWords.java
+ToggleCase.java
+RemoveSpaces.java
+SubstringCheck.java
+StringRotation.java
+FrequencyChar.java
