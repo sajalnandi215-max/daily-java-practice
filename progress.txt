@@ -44,3 +44,7 @@ SumDigits.java
 ReverseNumber.java
 PowerRecursion.java
 PalindromeNumber.java
+CountDigits.java
+GCDRecursion.java
+BinarySearchRecursion.java
+PrintNumbers.java
