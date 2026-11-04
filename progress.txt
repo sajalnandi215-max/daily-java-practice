@@ -52,3 +52,5 @@ DeleteNodeLinkedList.java
 LengthLinkedList.java
 ReverseLinkedList.java
 MiddleLinkedList.java
+DetectLoopLinkedList.java
+RemoveLoopLinkedList.java
