@@ -38,3 +38,9 @@ StringRotation.java
 FrequencyChar.java
 RemoveSpecialChars.java
 ReverseWords.java
+FactorialRecursion.java
+FibonacciRecursion.java
+SumDigits.java
+ReverseNumber.java
+PowerRecursion.java
+PalindromeNumber.java
