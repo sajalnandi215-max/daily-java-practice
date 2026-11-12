@@ -1,2 +1,6 @@
 BubbleSort.java
 SelectionSort.java
+InsertionSort.java
+MergeSort.java
+QuickSort.java
+HeapSort.java
