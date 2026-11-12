@@ -14,3 +14,5 @@ JumpSearch.java
 InterpolationSearch.java
 ExponentialSearch.java
 FindMax.java
+FindMin.java
+ReverseArray.java
